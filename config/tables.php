@@ -1,0 +1,26 @@
+<?php
+
+return [
+    'users' => 'Users',
+    'vehicles' => 'Vehicles',
+    'user_vehicles' => 'UserVehicles',
+    'rides' => 'Rides',
+    'associate_rides' => 'AssociateRides',
+    'tolls_in_ride' => 'TollsInRide',
+    'transactions' => 'Transactions',
+    'toll_fare_transactions' => 'TollFareAndTransactions',
+    'trip_type' => 'TripType',
+    'vehicle_types' => 'VehicleTypes',
+    'tolls' => 'Tolls',
+    'toll_fare' => 'TollFare',
+    'toll_between_locations' => 'TollsBetweenLocations',
+    'payasyougoselectionamount' => 'PayAsYouGoSelectionAmount',
+    'taxcalculation' => 'TaxCalculation',
+    'state' => 'States',
+    'payment_mode' => 'PaymentMode',
+    'payment_infos' => 'PaymentInfos',
+    'users_login_history' => 'UsersLoginHistory',
+    'payg_selection_amount' => 'PayAsYouGoSelectionAmount',
+    'corporates' => 'Corporates',
+    'password_reset' => 'PasswordReset',
+];

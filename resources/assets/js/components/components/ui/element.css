@@ -1,0 +1,17 @@
+input[type=checkbox] {
+    display:none;
+}
+input[type=checkbox] {
+    display:inline-block;
+    padding: 0 0 0 0px;
+    background:url("/images/UnSelect.png") no-repeat;
+    height: 15px;
+    width: 15px;;
+}
+
+input[type=checkbox]:checked {
+    background:url("/images/Select.png") no-repeat;
+    height: 15px;
+    width: 15px;
+    display:inline-block;
+}

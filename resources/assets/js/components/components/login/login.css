@@ -1,0 +1,10 @@
+.Forgot-password{
+    text-align: right;
+    float: right;
+}
+
+.forgot-password-panel{
+    width: 100%;
+    background: #f0f1f2;
+    height: 100vh;
+}

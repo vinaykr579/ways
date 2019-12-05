@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ways/webapi/wayscorporate/build/static/css/main.6f609dcf.chunk.css",
+    "main.js": "/ways/webapi/wayscorporate/build/static/js/main.f65e9884.chunk.js",
+    "main.js.map": "/ways/webapi/wayscorporate/build/static/js/main.f65e9884.chunk.js.map",
+    "runtime~main.js": "/ways/webapi/wayscorporate/build/static/js/runtime~main.3ed66ddb.js",
+    "runtime~main.js.map": "/ways/webapi/wayscorporate/build/static/js/runtime~main.3ed66ddb.js.map",
+    "static/js/2.0cff2023.chunk.js": "/ways/webapi/wayscorporate/build/static/js/2.0cff2023.chunk.js",
+    "static/js/2.0cff2023.chunk.js.map": "/ways/webapi/wayscorporate/build/static/js/2.0cff2023.chunk.js.map",
+    "index.html": "/ways/webapi/wayscorporate/build/index.html",
+    "precache-manifest.289c5bd3f0d1b3924252d1f869fea43c.js": "/ways/webapi/wayscorporate/build/precache-manifest.289c5bd3f0d1b3924252d1f869fea43c.js",
+    "service-worker.js": "/ways/webapi/wayscorporate/build/service-worker.js",
+    "static/css/main.6f609dcf.chunk.css.map": "/ways/webapi/wayscorporate/build/static/css/main.6f609dcf.chunk.css.map"
+  }
+}

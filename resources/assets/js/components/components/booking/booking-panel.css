@@ -1,0 +1,43 @@
+span.r_set {
+    position: absolute;
+    top: 7px;
+    left: 18px;
+    background: #c6c2c2;
+    font-size: 13px;
+    padding: 2px 6px;
+    color: #fff;
+    border-radius: 3px;
+    color:black;
+}
+
+span.r_set small{
+    cursor: pointer;
+}
+
+td.payDetails {
+    cursor: pointer;
+}
+
+.toll-cbr h4.alg {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 4px 25px 6px;
+    font-size: 17px;
+    font-weight: 700;
+    background: #c1c1c1;
+}
+
+.t_fare h5 {
+    font-size: 14px;
+    position: relative;
+    padding: 0 0 0 23px;
+}
+
+#cbr.tollcol1 ul li span {
+    background: #b3b3b3;
+}
+
+.rccs__card--dinersclub .rccs__issuer {
+    background-image: !important url('/images/cards/dinersclub.png')
+}

@@ -1,0 +1,11 @@
+.paginationNav ul li{
+    display: inline-flex !important;
+    padding:0;
+    width:5%;
+    
+}
+
+.paginationNav ul{
+    justify-content: center;
+    margin: 0
+}

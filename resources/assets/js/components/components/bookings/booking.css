@@ -1,0 +1,17 @@
+.tableSlideOpen {
+    -webkit-transition: width 2s; /* For Safari 3.1 to 6.0 */
+    transition: width 2s;
+}
+
+.arideTitle{
+    font-size: 12px;
+}
+
+.srNo{
+    margin-left: 2px;
+    margin-right: 4px;
+}
+.flex{
+    display: flex;
+    justify-content: space-between;
+}

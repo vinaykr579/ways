@@ -1,0 +1,50 @@
+.logo h1 {margin: 0;}
+body {color: #333;}
+.h4, .h5, .h6, h4, h5, h6{margin:0;}
+.h1, .h2, .h3, h1, h2, h3{margin:0;}
+.h5, h5{font-size: 16px;}
+.h2, h2{font-size: 33px;line-height: 36px;}
+
+@font-face {
+	font-family: 'FontAwesome';
+	src: url('../fonts/fontawesome-webfont.eot?v=3.2.1');
+	src: url('../fonts/fontawesome-webfont.eot?#iefix&v=3.2.1') format('embedded-opentype'), url('../fonts/fontawesome-webfont.woff?v=3.2.1') format('woff'), url('../fonts/fontawesome-webfont.ttf?v=3.2.1') format('truetype'), url('../fonts/fontawesome-webfont.svg#fontawesomeregular') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+@font-face {
+    font-family: 'sfuidisplaylight';
+    src: url('../fonts/sfuidisplaylight.eot');
+    src: url('../fonts/sfuidisplaylight.eot') format('embedded-opentype'),
+         url('../fonts/sfuidisplaylight.woff2') format('woff2'),
+         url('../fonts/sfuidisplaylight.woff') format('woff'),
+         url('../fonts/sfuidisplaylight.ttf') format('truetype'),
+         url('../fonts/sfuidisplaylight.svg#sfuidisplaylight') format('svg');
+}
+@font-face {
+    font-family: 'sfuidisplaybold';
+    src: url('../fonts/sfuidisplaybold.eot');
+    src: url('../fonts/sfuidisplaybold.eot') format('embedded-opentype'),
+         url('../fonts/sfuidisplaybold.woff2') format('woff2'),
+         url('../fonts/sfuidisplaybold.woff') format('woff'),
+         url('../fonts/sfuidisplaybold.ttf') format('truetype'),
+         url('../fonts/sfuidisplaybold.svg#sfuidisplaybold') format('svg');
+}
+@font-face {
+    font-family: 'sfuidisplaymedium';
+    src: url('../fonts/sfuidisplaymedium.eot');
+    src: url('../fonts/sfuidisplaymedium.eot') format('embedded-opentype'),
+         url('../fonts/sfuidisplaymedium.woff2') format('woff2'),
+         url('../fonts/sfuidisplaymedium.woff') format('woff'),
+         url('../fonts/sfuidisplaymedium.ttf') format('truetype'),
+         url('../fonts/sfuidisplaymedium.svg#sfuidisplaymedium') format('svg');
+}
+@font-face {
+    font-family: 'sf_ui_displayregular';
+    src: url('../fonts/sfuidisplayregular-webfont.woff2') format('woff2'),
+		 url('../fonts/sfuidisplayregular-webfont.ttf') format('truetype'),
+         url('../fonts/sfuidisplayregular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
